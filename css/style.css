@@ -6,7 +6,7 @@ body, html{
 header{
 	width: 100%;
 	height: 100vh;
-	background: url(images/bolpur_cover.jpg);
+	background: url(https://travel-atlas.com/image/1080/kolkata0_free.jpg);
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
@@ -507,7 +507,7 @@ button.collapse:hover, button.collapse.active{
 }
 .lower-footer{
 	width: 100%;
-	height: ;
+	height: 50;
 	color: #fff;
 	font-size: 13px;
 	font-family: Roboto;
@@ -537,3 +537,5 @@ button.collapse:hover, button.collapse.active{
 #footer-align-right a:hover{
 	color: #43b9e0;
 }
+
+	
